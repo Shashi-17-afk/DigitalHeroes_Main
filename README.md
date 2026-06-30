@@ -135,6 +135,9 @@ Notifications
 
 Environment Variables
 
+Admin login is pre written in env file
+contact me for admin login for evaluation process
+
 Create a ".env.local" file:
 
 NEXT_PUBLIC_SUPABASE_URL=
